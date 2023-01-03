@@ -24,3 +24,21 @@ body{
     top: 32px;
     border: 3px solid grey;
 }
+.navbar{
+   display: inline-block;
+}
+.navbar li{
+    display: inline-block;
+    font-size: 1.2em;
+    
+}
+.navbar li a{
+    color: white;
+    margin: 21px;
+    padding: 46px;
+    text-decoration: none;
+}
+.navbar li a:hover, .navbar li a.active{
+    color: rgb(218, 151, 44);
+    text-decoration: underline rgb(162, 126, 100);
+}
