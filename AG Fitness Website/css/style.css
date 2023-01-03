@@ -1,0 +1,15 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url('../images/bg.jpg');
+    color: white;
+}
+.left{
+    border: 3px solid grey;
+}
+.mid{
+    border: 3px solid grey;
+}
+.right{
+    border: 3px solid grey;
+}
